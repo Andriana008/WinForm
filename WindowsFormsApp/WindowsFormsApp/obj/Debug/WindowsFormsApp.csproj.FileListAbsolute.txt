@@ -1,0 +1,18 @@
+C:\Users\Andriana008\AppData\Local\Temporary Projects\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Andriana008\AppData\Local\Temporary Projects\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Andriana008\AppData\Local\Temporary Projects\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Andriana008\AppData\Local\Temporary Projects\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Andriana008\AppData\Local\Temporary Projects\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Andriana008\AppData\Local\Temporary Projects\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Andriana008\AppData\Local\Temporary Projects\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.Cache
+C:\Users\Andriana008\AppData\Local\Temporary Projects\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Andriana008\AppData\Local\Temporary Projects\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Andriana008\Desktop\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Andriana008\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Andriana008\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Andriana008\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Andriana008\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Andriana008\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Andriana008\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.Cache
+C:\Users\Andriana008\Desktop\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Andriana008\Desktop\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
