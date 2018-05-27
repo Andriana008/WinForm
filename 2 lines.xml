@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfLine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Line>
+    <A>
+      <X>163</X>
+      <Y>112</Y>
+    </A>
+    <B>
+      <X>392</X>
+      <Y>171</Y>
+    </B>
+    <Name>j</Name>
+    <LineColor />
+  </Line>
+  <Line>
+    <A>
+      <X>392</X>
+      <Y>58</Y>
+    </A>
+    <B>
+      <X>184</X>
+      <Y>262</Y>
+    </B>
+    <Name>g</Name>
+    <LineColor />
+  </Line>
+</ArrayOfLine>

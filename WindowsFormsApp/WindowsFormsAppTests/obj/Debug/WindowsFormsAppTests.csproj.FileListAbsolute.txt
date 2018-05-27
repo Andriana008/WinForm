@@ -1,0 +1,8 @@
+C:\Users\Andriana008\Desktop\WinForm\WindowsFormsApp\WindowsFormsAppTests\obj\Debug\WindowsFormsAppTests.csprojResolveAssemblyReference.cache
+C:\Users\Andriana008\Desktop\WinForm\WindowsFormsApp\WindowsFormsAppTests\bin\Debug\WindowsFormsAppTests.dll
+C:\Users\Andriana008\Desktop\WinForm\WindowsFormsApp\WindowsFormsAppTests\bin\Debug\WindowsFormsAppTests.pdb
+C:\Users\Andriana008\Desktop\WinForm\WindowsFormsApp\WindowsFormsAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Andriana008\Desktop\WinForm\WindowsFormsApp\WindowsFormsAppTests\bin\Debug\WindowsFormsApp.exe
+C:\Users\Andriana008\Desktop\WinForm\WindowsFormsApp\WindowsFormsAppTests\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Andriana008\Desktop\WinForm\WindowsFormsApp\WindowsFormsAppTests\obj\Debug\WindowsFormsAppTests.dll
+C:\Users\Andriana008\Desktop\WinForm\WindowsFormsApp\WindowsFormsAppTests\obj\Debug\WindowsFormsAppTests.pdb
