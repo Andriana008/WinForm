@@ -7,7 +7,7 @@ using WindowsFormsApp;
 namespace WindowsFormsAppTests
 {
     [TestClass]
-    public class UnitTest1
+    public class Tests
     {
         [TestMethod]
         public void DistanceTest1()
